@@ -26,32 +26,4 @@ Let's build something amazing together! 🚀
 ### Java, Data Structure
 ![code](https://github.com/mohdfurkan01/mohdfurkan01/assets/76490756/0bdf600b-6a68-4d16-9294-81a3c675eadd)
 
-JavaScript 2 hrs             ████████████████████████▓   80.08 %
-
-React.JS   1.5 hrs           ████████████████████████▓   75.50 %
-
-Node.JS    1.5 hrs           ████████████████████████▓   70%.08 %
-
-Java       1 hrs              ████████████████████████▓   80.08 %
-
-Data Structure  1 hr         ████████████████████████▓   60.08 %
-
-
-
-      
-
-<!--
-**mohdfurkan01/mohdfurkan01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
