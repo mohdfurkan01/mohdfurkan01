@@ -1,8 +1,9 @@
-![code](https://github.com/mohdfurkan01/mohdfurkan01/assets/76490756/0bdf600b-6a68-4d16-9294-81a3c675eadd)
   ### Hey! Nice to see you👋
  I'm Furkan, a passionate developer with expertise in React.js, Node.js, and Java programming. 🚀
  ### About Me
  And I'm from the charming city of Bareilly in Uttar Pradesh. Recently graduated 🎓 in Computer Science and Information Technology from Mahatma Jyotiba Phule Rohilkhand University, I'm passionate about web development and have some cool skills.
+![code](https://github.com/mohdfurkan01/mohdfurkan01/assets/76490756/0bdf600b-6a68-4d16-9294-81a3c675eadd)
+
 ### 🌱 My Journey So Far:
 In my previous role, I played a crucial part in the Healthcare project. Starting as a team member, I eventually took the lead in overseeing the entire project. I delved into diverse tasks, from developing functionalities like the service completion API to handling transitions from residency to family visas. My work involved comprehensive testing, ensuring a smooth user experience. 
 It was like being the captain of a ship.
