@@ -68,8 +68,6 @@ const furkan01 = {
     </a>
   </td>
   </p>
-
-  
  </tr>
 </table>
 
