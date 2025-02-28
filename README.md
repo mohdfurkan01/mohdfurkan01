@@ -4,16 +4,14 @@
 const furkan01 = {
     bio: "👋 Hey there! Furkan here, a full-stack developer who loves to code, debug, and repeat. Always learning, always improving.",
     techStack: {
-        languages: ["Java", "JavaScript", "Basic Data Structures"],
+        languages: ["Java", "JavaScript"],
+        problemSolving: ["Basic Data Structures", "Algorithms"],
         frontend: {
-            markup: ["HTML", "CSS"],
-            scripting: ["JavaScript"],
             libraries: ["React", "React Router", "Redux"],
             frameworks: ["Vite", "Bootstrap"],
             cssTools: ["SASS", "TailwindCSS", "Less"],
         },
         backend: {
-            languages: ["Java", "JavaScript"],
             libraries: ["Node.js", "Express.js", "JWT", "Mongoose"],
             frameworks: ["Spring Boot", "Microservices"],
             APIs: ["RESTful APIs", "Axios", "Fetch"],
@@ -27,13 +25,9 @@ const furkan01 = {
 };
 
 ```
-<h3 align="center">A passionate frontend developer from India</h3>
+
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohdfurkan01&label=Profile%20views&color=0e75b6&style=flat" alt="mohdfurkan01" /> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
+  
 - 🌱 I’m currently learning **Typescript, SpringBoot**
 
 - 💬 Ask me about **React and Node**
@@ -42,20 +36,52 @@ const furkan01 = {
 
 - ⚡ Fun fact **I'm funny**
 
+ </p>
+ 
+ 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/furkan01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="furkan01" height="30" width="40" /></a>
-<a href="https://instagram.com/furkan_007___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="furkan_007___" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/furkan01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="furkan01" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/furkan99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="furkan99" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/furkan001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="furkan001" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
+
+<table align="left">
+  <tr>
+<p align="left">
+    
+<td align="center" width="100">
+<a href="https://linkedin.com/in/furkan01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="furkan01" height="30" width="40" /></a>
+ </td>
+
+<td align="center" width="100">
+<a href="https://instagram.com/furkan_007___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="furkan_007___" height="30" width="40" /></a>
+</td>
+
+<td align="center" width="100">
+<a href="https://www.hackerrank.com/furkan01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="furkan01" height="30" width="40" /></a>
+</td>
+
+<td align="center" width="100">
+<a href="https://www.leetcode.com/furkan99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="furkan99" height="30" width="40" /></a>
+</td>
+
+<td align="center" width="100">
+<a href="https://auth.geeksforgeeks.org/user/furkan001" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="furkan001" height="30" width="40" />
+    </a>
+  </td>
+  </p>
+
+  
+ </tr>
+</table>
+
+<br>  
+<br>
+<h3 align="left"> And Languages and Tools:</h3> 
+
 <table align="center">
   <tr>
-    
+  
 <p align="left">
+ 
   <!-- Section 1 (15 Technologies) -->
   <td align="center" width="100">
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
@@ -259,4 +285,20 @@ const furkan01 = {
   </tr>
 </table>
 
-<img align="center" src="https://github.com/zieldecastro/zieldecastro/blob/output/github-contribution-grid-snake.svg" alt="me"/>
+
+<div align="center">
+
+
+![Snake animation](https://github.com/zieldecastro/zieldecastro/blob/output/github-contribution-grid-snake.svg)
+
+
+  ---
+  #### <img src="https://media.giphy.com/media/WygrrSksa7x4PHFXxM/giphy.gif" height="30"> <em><b>Passionate about tech and always up for a conversation!</b>💻✨<3</em>
+
+  ![](https://komarev.com/ghpvc/?username=mohdfurkan01&color=blueviolet)
+
+</div>
+
+
+
+
