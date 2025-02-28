@@ -38,9 +38,7 @@ const furkan01 = {
 
  </p>
  
- 
 <h3 align="left">Connect with me:</h3>
-
 
 <table align="left">
   <tr>
@@ -70,7 +68,6 @@ const furkan01 = {
   </p>
  </tr>
 </table>
-
 <br>
 <h3 align="left"> And Languages and Tools:</h3> 
 
