@@ -68,6 +68,7 @@ const furkan01 = {
   </p>
  </tr>
 </table>
+
 <br>
 <br>
 <h3 align="left"> And Languages and Tools:</h3> 
