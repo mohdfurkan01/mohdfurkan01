@@ -40,8 +40,6 @@ const furkan01 = {
  
 <h3 align="left">Connect with me:</h3>
 
-<table align="left">
-  <tr>
 <p align="left">
     
 <td align="center" width="100">
@@ -66,11 +64,7 @@ const furkan01 = {
     </a>
   </td>
   </p>
- </tr>
-</table>
-
-<br>
-<br>
+ 
 <h3 align="left"> And Languages and Tools:</h3> 
 
 <table align="center">
