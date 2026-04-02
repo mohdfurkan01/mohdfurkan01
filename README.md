@@ -17,8 +17,8 @@ const furkan01 = {
             APIs: ["RESTful APIs", "Axios", "Fetch"],
         },
         databases: ["MongoDB (NoSQL)", "MySQL"],
-        cloudPlatforms: ["Azure", "GCP"],
-        deployment: ["Netlify", "GitHub Pages", "Firebase"],
+        cloudPlatforms: ["Azure", AWS, "GCP"],
+        deployment: ["CI/CD, Filezilla, Netlify", "GitHub Pages", "Firebase"],
         tools: ["VS Code", "IntelliJ IDEA", "Postman", "pgAdmin4", "Git", "JIRA", "Docker"],
     },
     motto: "Staying Optimistic✨",
@@ -28,7 +28,7 @@ const furkan01 = {
 
 <img align="right" alt="coding" width="400" height="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
   
-- 🌱 I’m currently learning **Typescript, SpringBoot**
+- 🌱 I’m currently learning **DepOps, CI/CD Deployment**
 
 - 💬 Ask me about **React and Node**
 
