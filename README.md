@@ -4,7 +4,7 @@
 const furkan01 = {
     bio: "👋 Hey there! Furkan here, a full-stack developer who loves to code, debug, and repeat. Always learning, always improving.",
     techStack: {
-        languages: ["Java", "JavaScript"],
+        languages: ["Java", "JavaScript" "Python"],
         problemSolving: ["Basic Data Structures", "Algorithms"],
         frontend: {
             libraries: ["React", "React Router", "Redux"],
@@ -28,7 +28,7 @@ const furkan01 = {
 
 <img align="right" alt="coding" width="400" height="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
   
-- 🌱 I’m currently learning **DepOps, CI/CD Deployment**
+- 🌱 I’m currently learning **DepOps, CI/CD Deployment, and AI-based application development**
 
 - 💬 Ask me about **React and Node**
 
