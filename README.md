@@ -40,30 +40,42 @@ const furkan01 = {
  
 <h3 align="left">Connect with me:</h3>
 
-<p align="left">
-    
-<td align="center" width="100">
-<a href="https://linkedin.com/in/furkan01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="furkan01" height="30" width="40" /></a>
- </td>
+<table>
+<tr>
 
-<td align="center" width="100">
-<a href="https://instagram.com/furkan_007___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="furkan_007___" height="30" width="40" /></a>
+<td align="center" width="60">
+<a href="https://linkedin.com/in/furkan01" target="blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
 </td>
 
-<td align="center" width="100">
-<a href="https://www.hackerrank.com/furkan01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="furkan01" height="30" width="40" /></a>
+<td align="center" width="60">
+<a href="https://instagram.com/furkan_007___" target="blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+</a>
 </td>
 
-<td align="center" width="100">
-<a href="https://www.leetcode.com/furkan99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="furkan99" height="30" width="40" /></a>
+<td align="center" width="60">
+<a href="https://www.hackerrank.com/furkan01" target="blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" />
+</a>
 </td>
 
-<td align="center" width="100">
+<td align="center" width="60">
+<a href="https://www.leetcode.com/furkan99" target="blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
+</a>
+</td>
+
+<td align="center" width="60">
 <a href="https://auth.geeksforgeeks.org/user/furkan001" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="furkan001" height="30" width="40" />
-    </a>
-  </td>
-  </p>
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30" width="40" />
+</a>
+</td>
+
+</tr>
+</table>
+
  
 <h3 align="left">Languages and Tools:</h3> 
 
