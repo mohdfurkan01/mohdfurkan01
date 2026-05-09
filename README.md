@@ -276,10 +276,10 @@ const furkan01 = {
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohdfurkan01&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="height: 200px;" />
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mohdfurkan01&layout=compact&theme=tokyonight&locale=en" alt="Top Languages" style="height: 200px;" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=mohdfurkan01&show_icons=true&locale=en" alt="GitHub Stats" />
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mohdfurkan01&show_icons=true&theme=tokyonight&locale=en" alt="GitHub Stats" /> 
     </td>
     <td>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohdfurkan01" alt="GitHub Streak" />
