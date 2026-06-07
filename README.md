@@ -28,7 +28,7 @@ const furkan01 = {
 
 <img align="right" alt="coding" width="400" height="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
   
-- 🌱 I’m currently learning **DepOps, CI/CD Deployment, and AI-based application development**
+- 🌱 I’m currently learning **DepOps, CI/CD Deployment, Redis, and AI-based application development**
 
 - 💬 Ask me about **React and Node**
 
