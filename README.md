@@ -5,16 +5,17 @@ const furkan01 = {
     bio: "👋 Hey there! Furkan here, a full-stack developer who loves to code, debug, and repeat. Always learning, always improving.",
     techStack: {
         languages: ["Java", "JavaScript" "Python"],
-        problemSolving: ["Basic Data Structures", "Algorithms"],
+        problemSolving: ["Data Structures", "Algorithms"],
         frontend: {
-            libraries: ["React", "React Router", "Redux"],
+            libraries: ["React", "React Router", "Redux", "React Dev Tool"],
             frameworks: ["Vite", "Bootstrap"],
-            cssTools: ["SASS", "TailwindCSS", "Less"],
+            cssTools: ["SASS", "TailwindCSS"],
         },
         backend: {
             libraries: ["Node.js", "Express.js", "JWT", "Mongoose"],
             frameworks: ["Spring Boot", "Microservices"],
             APIs: ["RESTful APIs", "Axios", "Fetch"],
+            Packages: ["Developed Private NPM Package"]
         },
         databases: ["MongoDB (NoSQL)", "MySQL"],
         cloudPlatforms: ["Azure", AWS, "GCP"],
